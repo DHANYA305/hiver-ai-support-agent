@@ -1,0 +1,27 @@
+
+AGENTIC AI TICKET SYSTEM — FINAL TEST REPORT
+============================================
+
+Dataset:
+Total customer-support pairs: 23823
+
+API Testing:
+Total tests: 8
+Successful requests: 8
+Failed requests: 0
+
+System Features Tested:
+- Customer issue input
+- Similar issue retrieval
+- Support response generation
+- Confidence classification
+- Automatic ticket resolution
+- Ticket creation
+- FastAPI endpoint testing
+
+Generated Files:
+- ticket_api_test_results.csv
+- ticket_api_test_summary.csv
+- additional_api_test_results.csv
+- all_ticket_api_test_results.csv
+- final_project_metrics.csv

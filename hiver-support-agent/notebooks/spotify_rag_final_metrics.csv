@@ -1,0 +1,7 @@
+Metric,Value
+Knowledge base pairs,23815
+Evaluation records,4
+Test cases,5
+Test results saved,True
+FAISS index available,True
+Embedding model available,True

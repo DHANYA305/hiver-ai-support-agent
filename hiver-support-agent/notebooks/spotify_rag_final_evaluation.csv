@@ -1,0 +1,5 @@
+customer_query,support_answer,confidence,distance
+Spotify stops playing after a few songs,"Hey, help's here! Can you let us know the device, operating system, and Spotify version you're using? We'll see what we can suggest /GK",High,0.3284124732017517
+I cannot download music for offline listening,"Hi there, that doesn't sound good. Can you DM us your account's email address? We'll take a look backstage /AK",High,0.275166779756546
+My Spotify Premium subscription is not working,Hey there! Could you send us a DM with your account's email address? We'll take a look backstage /MA,High,0.1293246001005172
+Spotify songs are not available,Hey there! That's not cool. Does logging out > restarting the device > logging back in help? Keep us posted /PX,High,0.2538135051727295

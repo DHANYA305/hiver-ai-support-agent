@@ -1,0 +1,9 @@
+ticket_id,created_at,customer_issue,suggested_response,confidence,distance,action,status,status_code
+5dd7f4f0,2026-09-12 20:29:52,Spotify stops playing after a few songs,"Hey, help's here! Can you let us know the device, operating system, and Spotify version you're using? We'll see what we can suggest /GK",High,0.3284,Auto Respond,Resolved Automatically,200
+62f22327,2026-09-12 20:29:52,I cannot play songs on Spotify,"Hey Celia, that doesn't sound good. Can you let us know what device, operating system, and Spotify version you're using? /RK",High,0.2137,Auto Respond,Resolved Automatically,200
+d46a7db0,2026-09-12 20:29:52,My Spotify account is not working,Hi Diyana! We've just sent a DM your way. Let's carry on chatting there /TR,High,0.229,Auto Respond,Resolved Automatically,200
+09ad6153,2026-09-12 20:35:15,Spotify keeps crashing,Hey Stephen! That's not cool. What operating system and Spotify version are you running? We'll see what we can suggest /MV,High,0.237,Auto Respond,Resolved Automatically,200
+6001d8cf,2026-09-12 20:35:15,I forgot my Spotify password,Hey there! Help's arrived. Can you DM us your account's username? We'll take a look backstage /KM,High,0.2889,Auto Respond,Resolved Automatically,200
+446d9c37,2026-09-12 20:35:15,My playlist disappeared,"Hey, that's not cool! Can you DM us your account's email address or username? We'll take a look backstage /JE",High,0.1722,Auto Respond,Resolved Automatically,200
+5e52e6e3,2026-09-12 20:35:15,Music is buffering continuously,"Hey, help's here! What’s happening exactly? Can you let us know the device/OS you’re using? We'll see what we can suggest /PK",Medium,0.6133,Human Review,Needs Review,200
+7dac3af5,2026-09-12 20:35:15,I cannot log into my Spotify account,"Hey Matt, help's here! Can you DM us your account's username and email address? We'll take a look backstage /ND",High,0.0337,Auto Respond,Resolved Automatically,200

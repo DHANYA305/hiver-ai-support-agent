@@ -1,0 +1,6 @@
+metric,value
+Knowledge Base Size,23815
+Evaluation Records,4
+Test Cases,5
+Embedding Model,SentenceTransformer
+Retrieval Method,FAISS Vector Similarity Search

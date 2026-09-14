@@ -1,0 +1,4 @@
+ticket_id,created_at,customer_issue,suggested_response,confidence,distance,action,status,status_code
+5dd7f4f0,2026-09-12 20:29:52,Spotify stops playing after a few songs,"Hey, help's here! Can you let us know the device, operating system, and Spotify version you're using? We'll see what we can suggest /GK",High,0.3284,Auto Respond,Resolved Automatically,200
+62f22327,2026-09-12 20:29:52,I cannot play songs on Spotify,"Hey Celia, that doesn't sound good. Can you let us know what device, operating system, and Spotify version you're using? /RK",High,0.2137,Auto Respond,Resolved Automatically,200
+d46a7db0,2026-09-12 20:29:52,My Spotify account is not working,Hi Diyana! We've just sent a DM your way. Let's carry on chatting there /TR,High,0.229,Auto Respond,Resolved Automatically,200

@@ -1,0 +1,211 @@
+customer_text,gold_intent,trivial_majority_class,simple_rule_based,system_tfidf_classifier
+please help - my Spotify stopped playing and now it's just white.. even community forum for help etc just coming up like this,playback_technical,playback_technical,playback_technical,general_complaint
+"Still hasn't helped, won't play on bus wifi and won't play when I go off the app either..",playback_technical,playback_technical,playback_technical,playback_technical
+"I skipped address confirmation, how do I confirm my address for now? Can I have my premium account back? thx",playback_technical,playback_technical,playback_technical,general_complaint
+why is my music skipping like a cd,playback_technical,playback_technical,playback_technical,playback_technical
+iPhone after a song ends the app crashes,playback_technical,playback_technical,playback_technical,playback_technical
+"Thanks but it's not a bug, it's a feature. The shortcut is great for easily skipping songs on album view but if you happen to be in list view you'll remove songs from your library with no option to undo. iPhone 7 Plus iOS 10.2.1 Spotify version 8.4.28.1104",playback_technical,playback_technical,playback_technical,praise_other
+"I wish didn’t skip/scratch/loop with every song I played on the new IOS Beta... minor glitches just annoying, trying to jam out!",playback_technical,playback_technical,playback_technical,playback_technical
+My Spotify is still glitching like it was earlier... 💀,playback_technical,playback_technical,playback_technical,playback_technical
+here's a q why does only start buffering during songs (on ps4) only AFTER i have premium,playback_technical,playback_technical,playback_technical,general_complaint
+when will get it’s shit together my music literally stops playing all the time and it doesn’t let me play certain playlists,playback_technical,playback_technical,playback_technical,playback_technical
+My Android app seems to disconnect when everything else works fine. Lag and unresponsive. Been looking for solution.,playback_technical,playback_technical,playback_technical,general_complaint
+"MacOS 10.12.6 and no clue how to tell spotify version. Just started acting up now, and won't play this album at all.",playback_technical,playback_technical,playback_technical,playback_technical
+You're shitty app just added a wack ass song to my playlist while I was trying to skip over it and driving. I nearly wrecked my Kia Soul!,playback_technical,playback_technical,playback_technical,playback_technical
+"hi , I've had my spotify account for about 2 months and I've never had this problem, basically it's not letting me skip a song when I haven't skipped a song in about 3 days",playback_technical,playback_technical,playback_technical,playback_technical
+Only when it's been shared on Twitter - tried w a couple others over the last week and same result - just this screen buffering,playback_technical,playback_technical,playback_technical,general_complaint
+"I found an album on the web player (that won't play), but I can't find that album on the app. Help?",playback_technical,playback_technical,playback_technical,playback_technical
+When I click to play a song it just skips through them all on the playlist. Like it wants to play but won’t,playback_technical,playback_technical,playback_technical,playback_technical
+no error messages just won't play any songs saved.,playback_technical,playback_technical,playback_technical,playback_technical
+No error message. The app crashes or just pauses,playback_technical,playback_technical,playback_technical,playback_technical
+"No errors or messages, just a 5 minute lag on interactions and the fallout where it won't load *any* content after close or force quit.",playback_technical,playback_technical,playback_technical,playback_technical
+"I’m able to pull up the app and start playing music, but then it will freeze mid-song. And I’m on WiFi.",playback_technical,playback_technical,playback_technical,general_complaint
+"if your app crashes on my phone and forces me to redownload my entire library one more time, I will switch to Apple Music. Third time I’ve had to do this in a matter of a couple months.",playback_technical,playback_technical,playback_technical,playback_technical
+well the pink error no longer shows up for some reason but the songs do still skip rapidly and then play 3-4 ads in between,playback_technical,playback_technical,playback_technical,playback_technical
+"The only program which ever causes a total freeze on my Windows 10 machine is , and it does so regularly.",playback_technical,playback_technical,playback_technical,general_complaint
+"Yo , can you sort out your app/programme for the windows creators updates. Every time it loads it freezes my laptop since update :(",playback_technical,playback_technical,playback_technical,playback_technical
+any chance you could sort out the glitch that means we have no control on the iPhone lock screen?,playback_technical,playback_technical,playback_technical,playback_technical
+"What's happening with your music in , ?? Your songs won't play anymore... 🙁",playback_technical,playback_technical,playback_technical,playback_technical
+"No errors, if I'm in the middle of a song and tap on the song that doesn't play it immediately stops playing music",playback_technical,playback_technical,playback_technical,playback_technical
+"FYI: I've had numerous ""no response"" crashes with Spotify 1.0.66 in full-screen on macOS 10.12.6 after unlocking the computer.",playback_technical,playback_technical,playback_technical,playback_technical
+"the app is bugging me for about last month - on both iPad/iPhone it stops playing before going to next song at random (mostly with recently added to playlist, but not all). I've already even uninstalled the app, didn't help - any update on this to be released? 🙁",playback_technical,playback_technical,playback_technical,playback_technical
+"unable to make payment for my premium account, nothing wrong with my card as checked with the bank.",billing_subscription,playback_technical,account_access,general_complaint
+my account has been premium for a while now but I renewed my subscription since I changed my bank card now itkeeps saying free,general_complaint,playback_technical,account_access,general_complaint
+"Hi Spotify, I have an old PS4 account which got banned still linked to my Spotify account, how do I unlink them?",general_complaint,playback_technical,account_access,general_complaint
+it’s not letting me access my account because it says I need to make a new password. But every time i go to do that it says that the CSRF token is invalid. Please help.,account_access,playback_technical,account_access,account_access
+"hiya, i need to get into a artist account - Hello Skinny - but we have lost all membership details - how can I log in? thanks!",account_access,playback_technical,account_access,praise_other
+"my spotify account has been disabled, is there anyway you guys can reactivate it again?",general_complaint,playback_technical,account_access,account_access
+Except after the first time I changed my password and unlinked the tv I had hooked to stream. So why is it happening again.,account_access,playback_technical,account_access,account_access
+Can you please update us on how long these problems will take to fix? I still can't log in due to them :/,account_access,playback_technical,account_access,account_access
+But now that I deleted it I can’t log in at all. Please email me and I can explain.,account_access,playback_technical,account_access,account_access
+why is my Spotify playing random songs when the app is closed? I changed my password and logged out of everywhere,account_access,playback_technical,account_access,account_access
+need some assistance - need to reset password but do not have access to the email anymore.,account_access,playback_technical,account_access,account_access
+my account randomly logged out on both of my devices and won’t let me log back in. i tried resetting my password but it’s saying the account doesn’t even exist. i can’t cancel payment and make a new account because it won’t let me access anything. please help,account_access,playback_technical,account_access,account_access
+can you please give me a customer service contact that doesn't require a log in. Need to question your bank charges,account_access,playback_technical,account_access,account_access
+"Someone is using my account, i've already changed my password 3 times but it keeps showing weird music in my recently played?",account_access,playback_technical,account_access,account_access
+iv a new account but it won't allow me to log in on the apps (just the web server version). can't log in on phone or laptop,account_access,playback_technical,account_access,account_access
+"Hey , I'm trying to login to the web player and I'm getting this error message: ""Oops! Something went wrong, please try again or check out our help area."" Any idea what's up? Thanks!",account_access,playback_technical,account_access,account_access
+tolong dibantu saya tidak bisa log in ke akun saya auliafarefa. Sudah pake fitur lupa password tapi email tidak masuk,account_access,playback_technical,account_access,account_access
+"hey,registration not working properly.when you register new account with Login XXXX, your login will look like 24 char hash",account_access,playback_technical,account_access,account_access
+I have a premium account with Spotify but can’t recall either password or email address... I do however have the payments details??,account_access,playback_technical,account_access,account_access
+PLEASE help me fix this! I'm locked out of my account someone changed the email address and password.,account_access,playback_technical,account_access,account_access
+But they didn't get into my account. They just clicked th forgot password button. Still suspicious and they should be banned from your service.,account_access,playback_technical,account_access,account_access
+I need technical help and every time I attempt to log in I get wrong password. I try to reset and never get the link via email. Not in spam folder either.,account_access,playback_technical,account_access,account_access
+Why do I have to ALWAYS connect me on Spotify Web ? (I'm connecting with facebook login),account_access,playback_technical,account_access,account_access
+"can you please help me, I want to cancel my subscription but I can’t remember my username and my account isn’t linked to my email or Facebook. 😥😥 I’ve forgotten t login details",account_access,playback_technical,account_access,account_access
+my account won't link w my anymore plz give me ur password I just wanna watch bobs burgers,account_access,playback_technical,account_access,account_access
+"Hi, I have trouble resetting my password. This message always occurs after I click send. Thanks!",account_access,playback_technical,account_access,account_access
+I signed up for the $9.99 plan but I can't log in.,account_access,playback_technical,account_access,account_access
+you charged me and I can't access my account. Tweeting the only way to resolve an issue? Terrible customer service smh,billing_subscription,playback_technical,account_access,account_access
+I am having issues with my account. I need help resetting my password.,account_access,playback_technical,account_access,account_access
+My email is associated with an FB account I don't have access to -- so I can't log in to that Spotify account to cancel. Help?,account_access,playback_technical,account_access,account_access
+after all this trouble w u canceling my account? Have now double paid and am hearing commercials? Only shuffle access?,general_complaint,playback_technical,billing_subscription,general_complaint
+"i want to cancel my premium but don't know what email i used, i know the username though, what do i do?",billing_subscription,playback_technical,billing_subscription,billing_subscription
+why the hell is it so hard to cancel my membership????,billing_subscription,playback_technical,billing_subscription,billing_subscription
+"So I cancelled my subscription today, this is what they sent me #truelove",billing_subscription,playback_technical,billing_subscription,billing_subscription
+"i have premium, but when i go to my profile it says that i am using free. That is not correct i dont hear ads and i pay for premium, but in the sub tab it says ""You're currently Spotify Free""",playback_technical,playback_technical,billing_subscription,general_complaint
+I like the new deal to pay up front for a year. But what if I want to switch to a family plan part way through the year? How would that be billed?,billing_subscription,playback_technical,billing_subscription,billing_subscription
+is awesome; took care of our issue and issued us a refund! #GoodCustomerService,billing_subscription,playback_technical,billing_subscription,billing_subscription
+"ive been charged with monthly premium charges h/ever when im about to cancel my subscription,it show that im not under premium",billing_subscription,playback_technical,billing_subscription,billing_subscription
+Valerie Rushton (valeriespot) £9.99 paid from my bank a/c 23.10.76 but premium not activated.,billing_subscription,playback_technical,billing_subscription,general_complaint
+"Hi, can I activate a free trial for Spotify Family? Thanks",praise_other,playback_technical,billing_subscription,billing_subscription
+Hello I was wondering why I am being charged twice for my music every month?,billing_subscription,playback_technical,billing_subscription,billing_subscription
+how do I get a refund on an accidental purchase of premium?,billing_subscription,playback_technical,billing_subscription,billing_subscription
+"if I have a payment pending and my renewal is 12/10 and I just cancelled premium, will I get my money back from pending??",billing_subscription,playback_technical,billing_subscription,billing_subscription
+why after months of being £4.99 with my student discount has it charged me £9.99?,billing_subscription,playback_technical,billing_subscription,billing_subscription
+"hi just signed up to premium. My mobile network has just given me premium free for a year though, do I have to cancel my paid account and start a new account to get the free one from my network or can I keep same details",billing_subscription,playback_technical,billing_subscription,billing_subscription
+Hey! It’s more I have a prem account but I’ve been added to a family account. What’s the process to cancel premium?,billing_subscription,playback_technical,billing_subscription,billing_subscription
+Spotify better get their shit together before I cancel my subscription and move over to Apple Music 😒,billing_subscription,playback_technical,billing_subscription,billing_subscription
+Why are there so many Slash and Guns N Roses songs that are unplayable? I'm going to cancel my subscription,billing_subscription,playback_technical,billing_subscription,billing_subscription
+Actually this month y’all charged me three times. All three times funds were withdrawn from my account. I would like to get this resolved as quickly as possible,billing_subscription,playback_technical,billing_subscription,general_complaint
+I need help with a billing problem. Cancelled premium but still got charged. Please help.,billing_subscription,playback_technical,billing_subscription,billing_subscription
+"Hi Spotify, you accidentally charged me 5 times can you please help me resolve this issue please? Thanks.",billing_subscription,playback_technical,billing_subscription,praise_other
+I've been charged 3 times for premium yet haven't even received the premium??? I'd like a refund pls pal,billing_subscription,playback_technical,billing_subscription,billing_subscription
+Wish wouldn't over charge me then air my dms??,billing_subscription,playback_technical,billing_subscription,billing_subscription
+Hi. Arent we all a premium member in the beginning? I've tried to pay by my SIM Card but it said that I don't have enough credit in my SIM Card which is wrong,general_complaint,playback_technical,billing_subscription,general_complaint
+My Spotify bill has jumped up to £14.99 per month but I don't know why. Can you please advise?,billing_subscription,playback_technical,billing_subscription,general_complaint
+i paid $6.99 for g-daughter account. Money taken. No account. Pmnt no P03BB81C61,billing_subscription,playback_technical,billing_subscription,general_complaint
+please help. Trying to cancel my account. But to no avail. Please help. Thanks,general_complaint,playback_technical,billing_subscription,praise_other
+"Dear : If I wanted words, I wouldn't be listening to your intense studying playlist. Love Bill Murray, but not here.",billing_subscription,playback_technical,billing_subscription,billing_subscription
+I just cancelled my premium subscription cos you guys are giving me the hardest time paying my subscription via mobile payment. Pls do something about this!!! I loaded 300 in total using 2 phones! 150 for each phone 😭,billing_subscription,playback_technical,billing_subscription,billing_subscription
+is the family premium account for £14.99 per month allow you the 30 day free trial like the normal premium one?,general_complaint,playback_technical,billing_subscription,billing_subscription
+My heart dropped. All of Anita Baker’s albums are removed from Spotify. Idk what you did but you better apologize and fix it.,content_availability,playback_technical,content_availability,general_complaint
+#Reputation is out and it's not on Spotify yet 😭😭 dude!!,content_availability,playback_technical,content_availability,general_complaint
+Why isn't on Spotify? You guys are slacking🌊,general_complaint,playback_technical,content_availability,general_complaint
+Why isn’t trust issues by drake not on Spotify? I need answers,content_availability,playback_technical,content_availability,general_complaint
+Reputation still not available on spotify ph,content_availability,playback_technical,content_availability,general_complaint
+can you please explain to me why High School Musical 2 is not on spotify????!,content_availability,playback_technical,content_availability,general_complaint
+hey please sort the licensing for this record ta,content_availability,playback_technical,content_availability,general_complaint
+their song “these girls” in Spotify is f-ed up! Is there anything u can do to fix it? It’s fin on Apple Music but not on Spotify,content_availability,playback_technical,content_availability,general_complaint
+Natural is missing from s club 7 discography on Spotify 😔,content_availability,playback_technical,content_availability,general_complaint
+Why is it not on spotify? #reputation,content_availability,playback_technical,content_availability,general_complaint
+why tf is got7 not on spotify,content_availability,playback_technical,content_availability,general_complaint
+I was in middle of securing my account on Spotify Help Chat online and the tab got closed. What should I do?,general_complaint,playback_technical,content_availability,general_complaint
+"Hi. Can you guys check the music missed on INNA's album ""Party Never Ends""? I think 2 songs are missing from this album, ""Boom Boom"" and ""Energy""",content_availability,playback_technical,content_availability,general_complaint
+Rlly sad that Chum Drum Bedrum isn't on Spotify :(((( pls change this,general_complaint,playback_technical,content_availability,general_complaint
+why is reputation still not available on spotify what about ur broke fans tay this is unfair,content_availability,playback_technical,content_availability,general_complaint
+literally why is Decode not on spotify. I’m mad,content_availability,playback_technical,content_availability,general_complaint
+demo_02 isnt on spotify yet wtf is this mistreatment,general_complaint,playback_technical,content_availability,general_complaint
+Taylor's album still isn't on Spotify yet UHM WHY ??????????????????????!!?????????????????????????,general_complaint,playback_technical,content_availability,general_complaint
+Why is Clubmix 2007 not on Spotify? I want to pretend I’m 19 again 😂,content_availability,playback_technical,content_availability,general_complaint
+get on. His sounds are what’s missing from my playlists 🔥🔥🔥🔥🔥🔥,content_availability,playback_technical,content_availability,general_complaint
+"Thanks - my problem on that point is I only listen offline on one device, why can’t I save 9,999 songs then? I would assume that is a licensing issue that you can’t change. My downloads only work when I’m in the app, I can’t minimise the app and it carrys on very frustrating....",content_availability,playback_technical,content_availability,praise_other
+Why is King Crimson not on Spotify come on man,content_availability,playback_technical,content_availability,general_complaint
+why is reputation still not on spotify it's been two weeks,content_availability,playback_technical,content_availability,general_complaint
+Why is speed gang still not on Spotify 😒 get your shit together,content_availability,playback_technical,content_availability,general_complaint
+why are all of Bring Me The Horizon's songs prior to 2008 not on Spotify? with an addition to Chasing Rainbows off Sempiternal,content_availability,playback_technical,content_availability,general_complaint
+"OK, . Why isn’t Mavis Staples’ Christmas Vacation not on Spotify. Year after year I’m waiting for that addition.",content_availability,playback_technical,content_availability,general_complaint
+"Faster Kill Pussycat isn't on Spotify, FIX THIS .",general_complaint,playback_technical,content_availability,general_complaint
+"Why is twice's kr songs not available on spotify, only the jp ones",content_availability,playback_technical,content_availability,general_complaint
+"I went on Spotify to listen to #reputation but it's not there, so I guess I'll listen to 's new album AGAIN",general_complaint,playback_technical,content_availability,general_complaint
+"hyuna's A+ isn't on spotify, can you tell me WHY",general_complaint,playback_technical,content_availability,general_complaint
+"I've voted for that, and this one too: But that suggestion is over 5yr old. What's so hard? You already label as 'E'",feature_request,playback_technical,feature_request,feature_request
+either tell me how to do this or a feature request. Hard press on pause to have playback stop at the end of the current song?,feature_request,playback_technical,feature_request,feature_request
+"Would be great if I could recover my account, but y’all gave up. #customerservicesucks",feature_request,playback_technical,feature_request,general_complaint
+Could you please add a “Sort by release-date” button for playlists?,feature_request,playback_technical,feature_request,feature_request
+Hay why Princess Leia's theme isn't in the best of star wars playlist but you have Jabba Flow and not one but two of the Cantina Band songs. Please add Leia's Theme it's such a great SW/John Williams song.,feature_request,playback_technical,feature_request,general_complaint
+please add Nujabes to the library,feature_request,playback_technical,feature_request,feature_request
+please add Every Little Thing to the Hot Country playlist. Not having 's song on there really upsets me,feature_request,playback_technical,feature_request,feature_request
+"Hey , new feature request: allow users to set a target song tempo on radio or select to play songs of similar tempo to one they’re listening to!",feature_request,playback_technical,feature_request,feature_request
+please add “we made it” by drake ❤️,feature_request,playback_technical,feature_request,feature_request
+Please add Again-Bruno Mars,feature_request,playback_technical,feature_request,feature_request
+please add Boom Boom to singles under Dinah Jane's listing please,feature_request,playback_technical,feature_request,feature_request
+plz change information? 'Rap Monster' is now known as RM- also could you add Taehyungs acting career 🧡🧡🧡,feature_request,playback_technical,feature_request,general_complaint
+"Your app doesnt work. I try playing my playlist, but it doesn't play. It only plays suggestion song.",feature_request,playback_technical,feature_request,feature_request
+Someone's been hacking my spotify. I finally Rick-rolled him... but would be great if there was some punishment for Mahamed Bouchaar (GT-190601),feature_request,playback_technical,feature_request,general_complaint
+There are songs I come across that I wish to never ever again. Please add a blacklist option.,feature_request,playback_technical,feature_request,feature_request
+Please add #Lemon by N.E.R.D and to today's top hits playlist !!,feature_request,playback_technical,feature_request,feature_request
+hi can you please add Taemin’s flame of love album... thanks,feature_request,playback_technical,feature_request,praise_other
+"Dear can you please add a button for #discoverweekly with the functionality: ""ban any #Saxophon tune from playlist""?",feature_request,playback_technical,feature_request,general_complaint
+here’s a suggestion - can you add a feature to allow shuffling of full albums in a playlist? (rather than shuffle songs only),feature_request,playback_technical,feature_request,feature_request
+it would be great if you could add Rammsteins waidmanns heil back on Spotify.,feature_request,playback_technical,feature_request,feature_request
+Feature Request: Make it easy to separate singles from albums in new releases.,feature_request,playback_technical,feature_request,feature_request
+can you please add a feature to easily view song lyrics within phone app? 😀,feature_request,playback_technical,feature_request,feature_request
+Hey feature request. A button that stops Christmas songs playing before 1st December. Thanks.,feature_request,playback_technical,feature_request,praise_other
+Basically I just wish you would update the iOS app for the iPhone X 🤗,feature_request,playback_technical,feature_request,general_complaint
+Wish you could block songs on Spotify,feature_request,playback_technical,feature_request,feature_request
+please add this to Guilty Pleasures presents: Heartthrobs.,feature_request,playback_technical,feature_request,feature_request
+"please add a ""clear cache"" feature",feature_request,playback_technical,feature_request,feature_request
+just a suggestion: cam you let non-premium members at least finish every song on an album before any other songs play? It's kinda annoying when i want to binge an album. :(,feature_request,playback_technical,feature_request,feature_request
+"Please add the ""explicit"" tag to the following song spotify:track:021txSheRym293iUdf6vPZ at 50 seconds in is the F word",feature_request,playback_technical,feature_request,general_complaint
+"Feature request: On your CarPlay app, please add a ""add to library"" button On your regular app, please bring Alexa integration. :)",feature_request,playback_technical,feature_request,feature_request
+how do I reset my Discover Weekly? I saved a few Latino songs and now that is all that is showing up in my playlist!,general_complaint,playback_technical,general_complaint,general_complaint
+why when I select a specific album to listen to most the songs are ‘recommended’ and not from the album at all ?,general_complaint,playback_technical,general_complaint,general_complaint
+I know and I've uninstalled and reinstalled Spotify twice and nothing has solved the problem,general_complaint,playback_technical,general_complaint,general_complaint
+you came with it this week for my discover weekly. Not as much on the discover but went hard on that 🔥🔥🔥. Job well done.,general_complaint,playback_technical,general_complaint,general_complaint
+"hey ! My ""New Albums and Singles"" section has not been updated today! It usually is updated every Friday. Do you know what could be the problem? I need my weekly fix of new releases!",general_complaint,playback_technical,general_complaint,general_complaint
+"hi help pls, every time I️ try to update my payment details for premium, it makes me register for the student discount & I’m not a student, so it gets rejected every time and then my card details aren’t saved. 😒 (also why don’t y’all have a phone support line)",billing_subscription,playback_technical,general_complaint,billing_subscription
+How about non students !? ☹,general_complaint,playback_technical,general_complaint,general_complaint
+how dare you include Pentatonix in a recommended playlist for me. I will drink toilet water before I willingly listen to a cappella,general_complaint,playback_technical,general_complaint,general_complaint
+"Since I updated my iPhone to iOS 11.0.3, shuffle doesn’t work when I’m Bluetooth connected in my 2015 Mazda 6. Is there a fix?",general_complaint,playback_technical,general_complaint,general_complaint
+"I am constantly shown their power of hacking even if its just subtle enough & transparent enough to show there is a presence lurking, like randomly playing a playlist on my spotify I didnt play.. odd",general_complaint,playback_technical,general_complaint,playback_technical
+Hi. I don't get it. Why can't I pay P9 using Smart or Globe?,general_complaint,playback_technical,general_complaint,billing_subscription
+how do i make it so you dont put marroon 5 in my release radar is there a way to block maroon 5 from my spotify,general_complaint,playback_technical,general_complaint,general_complaint
+Yep. No help.,general_complaint,playback_technical,general_complaint,general_complaint
+When I used my friends & dads account it allowed me to listen to music that wasn’t downloaded (they have premium). When I’m in the car & go to choose a song I don’t have saved/downloaded it automatically stops around 10 seconds ...,general_complaint,playback_technical,general_complaint,playback_technical
+"Dear : in the new iOS beta if i remove my headphones while playing music, that music continues to play rather than pausing. Just fyi.",general_complaint,playback_technical,general_complaint,general_complaint
+"hello, any news on Spotify in Russia? at least tell me you are not giving it up for good, please.",general_complaint,playback_technical,general_complaint,general_complaint
+Unable to signup to premium with PayPal. What else is good?,general_complaint,playback_technical,general_complaint,general_complaint
+@ spotify see u in court sweaty :),general_complaint,playback_technical,general_complaint,general_complaint
+I've been having issues connecting to the Desktop App at work. Can you help me with this?,general_complaint,playback_technical,general_complaint,general_complaint
+hey I have a question.,general_complaint,playback_technical,general_complaint,general_complaint
+I was using spotify premium and i cancelled it a month back. I got an offer yesterday saying that i can use spotify premium free for 3 months. I subscribed to that and they charged without letting me know.,billing_subscription,playback_technical,general_complaint,billing_subscription
+"Okay why is EXID's Full Moon still not available to listen to, but Monsta X's stuff was available immediately (released on the same day as EXID)? asking the hard questions with this increase in character abilities. (ps love monsta x)",general_complaint,playback_technical,general_complaint,general_complaint
+not working in samsung tv. Any known issues. Every other app is working perfect.,general_complaint,playback_technical,general_complaint,general_complaint
+merhabalar ben Premium üyelik aldım velakin para çekilmesine rağmen üyeliğim tanımlanmadı yardımcı olursanız,general_complaint,playback_technical,general_complaint,general_complaint
+Hello there how about adding #AllNight by and on Today's Top Hits playlist? It's the highest charting music release today on US itunes and holds number #6 atm! Let people hear this amazing song.,general_complaint,playback_technical,general_complaint,general_complaint
+What's up with your site today? It's kicking me off every two minutes. Please Send Halp.,general_complaint,playback_technical,general_complaint,general_complaint
+Is it possible to have the BBC live version of Harry Styles' Girl Crush on ? HAHA who doesn't want it? Seriously?,general_complaint,playback_technical,general_complaint,general_complaint
+accidentally revoked a 3rd party app and i can’t re-gain access to it. how do i gain access to it again??,general_complaint,playback_technical,general_complaint,general_complaint
+"time to update the app for the iPhone X. Come on now, get busy wit it!",general_complaint,playback_technical,general_complaint,general_complaint
+why you fucking with my jams,general_complaint,playback_technical,general_complaint,general_complaint
+"My Google Cast devices are working great, that's not the problem. I want to remove an old Spotify Connect speaker. Thanks",praise_other,playback_technical,praise_other,praise_other
+So when is #PerfectVelvet album going to be available? Thanks.,praise_other,playback_technical,praise_other,praise_other
+"iPhone 7, iOS 11.0.3 and Spotify version 8.4.22 thank you :)",praise_other,playback_technical,praise_other,praise_other
+:(( okay. thank you anyways,praise_other,playback_technical,praise_other,praise_other
+It’s ok i found a work around when I didn’t hear back within a few hours. Thanks anyway,praise_other,playback_technical,praise_other,praise_other
+"Thank you, I'll do just that.",praise_other,playback_technical,praise_other,praise_other
+Me too thanks pls fix,praise_other,playback_technical,praise_other,praise_other
+thank you for clearing that up!,praise_other,playback_technical,praise_other,praise_other
+Thanks for getting back to me. A staggering 9327 at the minute...,praise_other,playback_technical,praise_other,praise_other
+"hey guys, i want to add a playlist i made to our artist page but can't find it? Does it take a certain time to show? thanks x",general_complaint,playback_technical,praise_other,praise_other
+"She was part of my family group but not now, I’m the owner of the account my name should be there. Thanks in advance! Hope you can help me",general_complaint,playback_technical,praise_other,praise_other
+"I don't know who the right team is, but thanks. My hearing is not dealing at all well with this issue.",general_complaint,playback_technical,praise_other,praise_other
+"Thanks, I think part of the problem might be iOS. Could have sworn I updated my phone last night but I may require another. Spotify is version 8.4.27",general_complaint,playback_technical,praise_other,praise_other
+I have an Apple Watch. we all love you. We rely on your app for workouts and our daily lives. Where’s the damn Spotify Watch app???,praise_other,playback_technical,praise_other,general_complaint
+I've just sent a reply if you could check thanks,praise_other,playback_technical,praise_other,praise_other
+"Well, thanks. Guess that's the best I can expect. Have a good day!",praise_other,playback_technical,praise_other,praise_other
+"Hello, Is there any estimate of when the iOS app will be updated for the iPhone X screen? Thanks in advance!",praise_other,playback_technical,praise_other,praise_other
+Just had a really great customer experience with the service in Germany. These guys are fast! Thanks,praise_other,playback_technical,praise_other,praise_other
+I just did that and restarted my phone and it started working! Thank you :),praise_other,playback_technical,praise_other,praise_other
+Thank you for the info!,praise_other,playback_technical,praise_other,praise_other
+Appreciate it.,praise_other,playback_technical,praise_other,praise_other
+I find discriminatory that only college students have a 50% discount. Could it not be extended to high school students as well? Thank you!,praise_other,playback_technical,praise_other,praise_other
+Oh okay thank you☺️,praise_other,playback_technical,praise_other,praise_other
+Thanks LO sorry if I sounded rude I didn’t mean it,praise_other,playback_technical,praise_other,praise_other
+"dear spotify, bagaimana ya caranya menampilkan lyric di spotify android? Thanks",praise_other,playback_technical,praise_other,praise_other
+Thank you for the clarification. 😁,praise_other,playback_technical,praise_other,praise_other
+Oh yes! Thank you!,praise_other,playback_technical,praise_other,praise_other
+Thank you! I'll definitely check the voting thing out. I really appreciate the response to my nitpicky critiques.,praise_other,playback_technical,praise_other,praise_other
+I think this fixed it? Thanks KB,praise_other,playback_technical,praise_other,praise_other
+I’ll be waiting till next Friday hoping for some ear porn. Thanks for chatting,praise_other,playback_technical,praise_other,praise_other

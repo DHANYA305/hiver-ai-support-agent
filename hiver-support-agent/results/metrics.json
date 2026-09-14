@@ -1,0 +1,76 @@
+{
+  "n_golden": 210,
+  "brand": "SpotifyCares",
+  "judge_backend": "heuristic",
+  "intent": {
+    "trivial_majority_class": {
+      "accuracy": 0.14761904761904762,
+      "macro_f1": 0.03675163011262596
+    },
+    "simple_rule_based": {
+      "accuracy": 0.8809523809523809,
+      "macro_f1": 0.8865701355064957
+    },
+    "system_tfidf_classifier": {
+      "accuracy": 0.7142857142857143,
+      "macro_f1": 0.6790500815710899
+    }
+  },
+  "escalation": {
+    "trivial_never_escalate": {
+      "accuracy": 0.7380952380952381,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "tp": 0,
+      "fp": 0,
+      "fn": 55,
+      "tn": 155
+    },
+    "simple_hard_triggers_only": {
+      "accuracy": 0.7333333333333333,
+      "precision": 0.4444444444444444,
+      "recall": 0.07272727272727272,
+      "f1": 0.125,
+      "tp": 4,
+      "fp": 5,
+      "fn": 51,
+      "tn": 150
+    },
+    "system_full_policy": {
+      "accuracy": 0.6571428571428571,
+      "precision": 0.3924050632911392,
+      "recall": 0.5636363636363636,
+      "f1": 0.46268656716417905,
+      "tp": 31,
+      "fp": 48,
+      "fn": 24,
+      "tn": 107
+    }
+  },
+  "reply_quality": {
+    "judge_backend": "heuristic",
+    "mean_overall": 4.071428571428571,
+    "mean_faithfulness": 4.90952380952381,
+    "mean_relevance": 3.119047619047619,
+    "mean_tone": 4.285714285714286,
+    "judge_type": "heuristic",
+    "pct_by_method": {
+      "offline_extractive_top1": 0.7238095238095238,
+      "offline_low_confidence_template": 0.2761904761904762
+    }
+  },
+  "judge_human_agreement": {
+    "judge_backend": "heuristic",
+    "n": 3,
+    "exact_match_rate": 0.0,
+    "within_1_rate": 0.6666666666666666,
+    "mae": 1.6666666666666667,
+    "spearman": -1.0
+  },
+  "leakage_demo": {
+    "note": "top-1 retrieval similarity on first 50 golden examples: leaky index (golden rows left in the retrieval pool) vs. the clean eval index used everywhere else above",
+    "mean_top_similarity_leaky_index": 1.0,
+    "mean_top_similarity_clean_index": 0.2810132726306238
+  }
+}

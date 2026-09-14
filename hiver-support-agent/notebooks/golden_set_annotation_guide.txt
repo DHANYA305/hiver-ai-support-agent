@@ -1,0 +1,32 @@
+
+GOLDEN EVALUATION SET - HUMAN LABELING GUIDE
+
+Rate each support response:
+
+human_relevance:
+1 = Not relevant
+2 = Slightly relevant
+3 = Mostly relevant
+4 = Highly relevant
+5 = Perfectly relevant
+
+human_helpfulness:
+1 = Not helpful
+2 = Slightly helpful
+3 = Moderately helpful
+4 = Helpful
+5 = Very helpful
+
+human_response_quality:
+1 = Poor
+2 = Weak
+3 = Acceptable
+4 = Good
+5 = Excellent
+
+human_notes:
+Optional explanation for the rating.
+
+Sampling method:
+200 examples were randomly sampled from the cleaned Spotify
+customer-support dataset using random_state=42 for reproducibility.

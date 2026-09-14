@@ -1,0 +1,9 @@
+{
+    "project_name": "Agentic AI Ticket System",
+    "dataset_pairs": 23823,
+    "api_tests": 8,
+    "successful_requests": 8,
+    "failed_requests": 0,
+    "high_confidence_results": 7,
+    "automatically_resolved": 7
+}

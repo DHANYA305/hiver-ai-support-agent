@@ -1,0 +1,6 @@
+ticket_id,created_at,customer_issue,suggested_response,confidence,distance,status,action
+a484c861,2026-09-11 21:09:49,Spotify stops playing music,"Hey, help's here! Can you let us know the device, operating system, and Spotify version you're using? We'll see what we can suggest /GK",High,0.2893,Resolved Automatically,Auto Respond
+faeb605f,2026-09-11 21:09:49,I cannot download songs,"Hey, help's here! Can you DM us your account's email address? It'd also be best to let us know the Android and Spotify version you're rocking? /LW",High,0.239,Resolved Automatically,Auto Respond
+8d9b3a9b,2026-09-11 21:09:49,My Spotify Premium is not working,"Hi, we've just replied to your DM. We'll carry on chatting there /SY",High,0.0323,Resolved Automatically,Auto Respond
+f034c7a5,2026-09-11 21:09:49,I cannot access my account,Hey there! Could you DM us your account's username and email address? We'll see what we can suggest /DF,High,0.2887,Resolved Automatically,Auto Respond
+239fefc5,2026-09-11 21:09:49,Spotify keeps crashing,Hey Stephen! That's not cool. What operating system and Spotify version are you running? We'll see what we can suggest /MV,High,0.237,Resolved Automatically,Auto Respond

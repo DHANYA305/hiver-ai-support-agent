@@ -1,0 +1,404 @@
+{
+  "trivial_majority_class": {
+    "accuracy": 0.14761904761904762,
+    "report": {
+      "playback_technical": {
+        "precision": 0.14761904761904762,
+        "recall": 1.0,
+        "f1-score": 0.2572614107883817,
+        "support": 31.0
+      },
+      "account_access": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 25.0
+      },
+      "billing_subscription": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 28.0
+      },
+      "content_availability": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 22.0
+      },
+      "feature_request": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 30.0
+      },
+      "general_complaint": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 47.0
+      },
+      "praise_other": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 27.0
+      },
+      "accuracy": 0.14761904761904762,
+      "macro avg": {
+        "precision": 0.021088435374149662,
+        "recall": 0.14285714285714285,
+        "f1-score": 0.03675163011262596,
+        "support": 210.0
+      },
+      "weighted avg": {
+        "precision": 0.021791383219954646,
+        "recall": 0.14761904761904762,
+        "f1-score": 0.03797668444971349,
+        "support": 210.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        31,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        25,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        28,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        22,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        30,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        47,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        27,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "labels": [
+      "playback_technical",
+      "account_access",
+      "billing_subscription",
+      "content_availability",
+      "feature_request",
+      "general_complaint",
+      "praise_other"
+    ]
+  },
+  "simple_rule_based": {
+    "accuracy": 0.8809523809523809,
+    "report": {
+      "playback_technical": {
+        "precision": 1.0,
+        "recall": 0.967741935483871,
+        "f1-score": 0.9836065573770492,
+        "support": 31.0
+      },
+      "account_access": {
+        "precision": 0.8333333333333334,
+        "recall": 1.0,
+        "f1-score": 0.9090909090909091,
+        "support": 25.0
+      },
+      "billing_subscription": {
+        "precision": 0.8,
+        "recall": 0.8571428571428571,
+        "f1-score": 0.8275862068965517,
+        "support": 28.0
+      },
+      "content_availability": {
+        "precision": 0.7333333333333333,
+        "recall": 1.0,
+        "f1-score": 0.8461538461538461,
+        "support": 22.0
+      },
+      "feature_request": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 30.0
+      },
+      "general_complaint": {
+        "precision": 0.9333333333333333,
+        "recall": 0.5957446808510638,
+        "f1-score": 0.7272727272727273,
+        "support": 47.0
+      },
+      "praise_other": {
+        "precision": 0.8666666666666667,
+        "recall": 0.9629629629629629,
+        "f1-score": 0.9122807017543859,
+        "support": 27.0
+      },
+      "accuracy": 0.8809523809523809,
+      "macro avg": {
+        "precision": 0.8809523809523812,
+        "recall": 0.9119417766343936,
+        "f1-score": 0.8865701355064957,
+        "support": 210.0
+      },
+      "weighted avg": {
+        "precision": 0.8934920634920636,
+        "recall": 0.8809523809523809,
+        "f1-score": 0.8753346263982662,
+        "support": 210.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        30,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        25,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        2,
+        24,
+        0,
+        0,
+        2,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        22,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        30,
+        0,
+        0
+      ],
+      [
+        0,
+        3,
+        4,
+        8,
+        0,
+        28,
+        4
+      ],
+      [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        26
+      ]
+    ],
+    "labels": [
+      "playback_technical",
+      "account_access",
+      "billing_subscription",
+      "content_availability",
+      "feature_request",
+      "general_complaint",
+      "praise_other"
+    ]
+  },
+  "system_tfidf_classifier": {
+    "accuracy": 0.7142857142857143,
+    "report": {
+      "playback_technical": {
+        "precision": 0.9166666666666666,
+        "recall": 0.7096774193548387,
+        "f1-score": 0.8,
+        "support": 31.0
+      },
+      "account_access": {
+        "precision": 0.9230769230769231,
+        "recall": 0.96,
+        "f1-score": 0.9411764705882353,
+        "support": 25.0
+      },
+      "billing_subscription": {
+        "precision": 0.875,
+        "recall": 0.75,
+        "f1-score": 0.8076923076923077,
+        "support": 28.0
+      },
+      "content_availability": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 22.0
+      },
+      "feature_request": {
+        "precision": 1.0,
+        "recall": 0.7,
+        "f1-score": 0.8235294117647058,
+        "support": 30.0
+      },
+      "general_complaint": {
+        "precision": 0.46835443037974683,
+        "recall": 0.7872340425531915,
+        "f1-score": 0.5873015873015873,
+        "support": 47.0
+      },
+      "praise_other": {
+        "precision": 0.6944444444444444,
+        "recall": 0.9259259259259259,
+        "f1-score": 0.7936507936507936,
+        "support": 27.0
+      },
+      "accuracy": 0.7142857142857143,
+      "macro avg": {
+        "precision": 0.6967917806525402,
+        "recall": 0.6904053411191367,
+        "f1-score": 0.6790500815710899,
+        "support": 210.0
+      },
+      "weighted avg": {
+        "precision": 0.6988392760544658,
+        "recall": 0.7142857142857143,
+        "f1-score": 0.6889639274513224,
+        "support": 210.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        22,
+        0,
+        0,
+        0,
+        0,
+        8,
+        1
+      ],
+      [
+        0,
+        24,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1,
+        21,
+        0,
+        0,
+        5,
+        1
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        21,
+        1
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        21,
+        7,
+        2
+      ],
+      [
+        2,
+        1,
+        2,
+        0,
+        0,
+        37,
+        5
+      ],
+      [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        25
+      ]
+    ],
+    "labels": [
+      "playback_technical",
+      "account_access",
+      "billing_subscription",
+      "content_availability",
+      "feature_request",
+      "general_complaint",
+      "praise_other"
+    ]
+  }
+}

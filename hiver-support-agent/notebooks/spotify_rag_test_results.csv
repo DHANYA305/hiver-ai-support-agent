@@ -1,0 +1,6 @@
+test_id,customer_issue,generated_support_response
+1,Spotify stops playing music,"{'answer': ""Hey, help's here! Can you let us know the device, operating system, and Spotify version you're using? We'll see what we can suggest /GK"", 'confidence': 'High', 'distance': 0.28929996490478516}"
+2,I cannot listen to songs on Spotify,"{'answer': ""Hey! Help's here. Are you getting any specific errors? If so, a screenshot will be handy /CP"", 'confidence': 'High', 'distance': 0.2269885092973709}"
+3,My Spotify premium is not working,"{'answer': ""Hi, we've just replied to your DM. We'll carry on chatting there /SY"", 'confidence': 'High', 'distance': 0.032288990914821625}"
+4,How do I delete a playlist?,"{'answer': ""Hi there, the cavalry's here! If you'd like to remove a track from your playlist, we'd recommend following the steps at Hope this helps /AK"", 'confidence': 'High', 'distance': 0.17995277047157288}"
+5,Spotify songs are not available,"{'answer': ""Hey there! That's not cool. Does logging out > restarting the device > logging back in help? Keep us posted /PX"", 'confidence': 'High', 'distance': 0.2538135051727295}"

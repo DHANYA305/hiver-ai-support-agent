@@ -1,0 +1,6 @@
+metric,value
+total_tests,3
+successful_requests,3
+failed_requests,0
+high_confidence_results,3
+auto_resolved_tickets,3

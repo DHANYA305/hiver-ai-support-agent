@@ -1,0 +1,10 @@
+{
+    "ticket_id": "c23e32b0",
+    "created_at": "2026-09-12 20:35:36",
+    "customer_issue": "Spotify stops playing after a few songs",
+    "suggested_response": "Hey, help's here! Can you let us know the device, operating system, and Spotify version you're using? We'll see what we can suggest /GK",
+    "confidence": "High",
+    "distance": 0.3284,
+    "action": "Auto Respond",
+    "status": "Resolved Automatically"
+}
